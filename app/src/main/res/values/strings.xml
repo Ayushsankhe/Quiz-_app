@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz_App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ayush Sankhe</string>
+    <string name="nav_header_subtitle">ayush.studio@sankhe.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home">Home</string>
+    <string name="revise">Revise</string>
+    <string name="all_read">All Read</string>
+    <string name="ancient">Ancient</string>
+    <string name="medieval">Medieval</string>
+    <string name="ca">CA</string>
+    <string name="polity">Polity</string>
+    <string name="hello">Hello XYZ,</string>
+</resources>
